@@ -2,7 +2,7 @@ import smtplib
 from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
 username = 'akhilsanker1@gmail.com'
-password = 'typo?#'
+password = 'typ0":#'
 
 def send_mail(text='Email Body',subject='Hello',from_email='Akhil <akhilsanker1@gmail.com>',to_emails=None,html=None):
 
