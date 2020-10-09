@@ -3,6 +3,6 @@
 git status 
 git add --all
 git commit -m "Next"
-git push
+git push -u origin newone
 
 PAUSE
